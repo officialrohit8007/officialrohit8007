@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @officialrohit8007
-- 👀 I’m interested in ...BLOCKCHAIN    
-- 🌱 I’m currently learning ...SOLIDITY
-- 💞️ I’m looking to collaborate on ...SMART CONTRACTS
-- 📫 How to reach me ...officialrohitjesm@gmail.com (+919888186239)
+- 👋 Hi, I’m Rohit Yadav
+- 👀 I’m interested in ...Frontend Development    
+- 🌱 I’m currently learning ...Next.js
+- 💞️ I’m looking to collaborate on ...web developement
+- 📫 How to reach me ...officialrohitjesm@gmail.com (+919622922441)
 
 <!---
 officialrohit8007/officialrohit8007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
